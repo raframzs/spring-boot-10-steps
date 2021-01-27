@@ -10,7 +10,9 @@ import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
 import java.net.URI;
 import java.util.List;
-
+/**
+ * The main controller class
+ */
 @RestController
 public class UserController {
 
